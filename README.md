@@ -1,1 +1,2 @@
 # Portfolio-Management-Project
+This project combines portfolio optimization and climate diagnostics to analyze a technology-focused equity portfolio derived from the SEEGX mutual fund’s top holdings. Using Python market data, Excel optimization, and ESG carbon metrics, the analysis constructs an efficient portfolio and evaluates its risk–return performance and carbon exposure through WACI and emissions transition indicators. The results highlight both the financial efficiency of the portfolio and its climate profile relative to market benchmarks.
