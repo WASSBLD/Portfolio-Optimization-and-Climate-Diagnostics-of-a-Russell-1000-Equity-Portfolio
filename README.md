@@ -178,39 +178,16 @@ This makes the project stronger than a standard ESG-score exercise: it evaluates
 
 ---
 
-## What This Project Demonstrates
-
-This project shows the ability to:
-
-- build an **Excel-based portfolio optimization model** from raw asset data
-- annualize return and risk metrics consistently
-- construct and interpret an **efficient frontier**
-- use a **utility framework** to connect quantitative optimization with investor preferences
-- evaluate a portfolio using institutional performance metrics
-- extend a traditional portfolio analysis with **climate-risk diagnostics**
-- connect **financial performance**, **portfolio construction**, and **sustainability analysis** in one coherent framework
-
-This is not just a portfolio management exercise. It is a practical demonstration of:
-- quantitative reasoning,
-- investment analysis,
-- benchmark-relative interpretation,
-- and ESG integration.
-
----
-
 ## Files in this Repository
 
-- `Portfolio_Construction.xlsx`  
+- Portfolio_Construction.xlsx 
   Main Excel model containing return calculations, covariance matrix, efficient frontier construction, utility analysis, benchmark comparison, and climate diagnostics.
 
-- `climate_diagnostics_report.pdf`  
+- climate_diagnostics_report.pdf  
   Summary of the ESG / climate analysis, including WACI and carbon transition results.
 
-- `METHODOLOGY.md` or `methodology_report.pdf`  
-  Detailed explanation of the financial and climate methodology.
-
-- `images/`  
-  Exported visuals from the workbook, such as the efficient frontier, final weights, and WACI / climate charts.
+- METHODOLOGY.md
+    Detailed explanation of the Portfolio Construction.
 
 ---
 
@@ -222,32 +199,10 @@ This is not just a portfolio management exercise. It is a practical demonstratio
 
 ---
 
-## Why This Repository Matters
-
-This repository presents a complete workflow that starts with **portfolio theory** and ends with **climate-aware investment diagnosis**.
-
-It shows how a portfolio can be:
-- constructed quantitatively,
-- selected according to investor preferences,
-- benchmarked against real investment products and indices,
-- and assessed through a contemporary ESG lens.
-
-For recruiters, this project demonstrates practical skills in:
-- portfolio management
-- financial modeling
-- risk-adjusted performance evaluation
-- ESG / climate analytics
-- and translating raw data into an investment narrative
-
----
 
 ## Summary
 
 This project builds a concentrated U.S. growth equity portfolio from the top holdings of SEEGX, maps the efficient frontier of that restricted universe, selects the final allocation using a utility-maximization framework, evaluates its financial performance against key benchmarks, and then layers in climate diagnostics using WACI and emissions-transition metrics.
 
-The result is a project that combines:
-- **modern portfolio theory**
-- **investment performance analysis**
-- and **institutional-style climate diagnostics**
 
-in a single, professional, Excel-first investment research workflow.
+
