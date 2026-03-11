@@ -186,7 +186,7 @@ This makes the project stronger than a standard ESG-score exercise: it evaluates
 - climate_diagnostics_report.pdf  
   Summary of the ESG / climate analysis, including WACI and carbon transition results.
 
-- METHODOLOGY.md
+- Portfolio construction description.docx
     Detailed explanation of the Portfolio Construction.
 
 ---
